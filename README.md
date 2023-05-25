@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Handa</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://github.com/Pratham-Handa/Pratham-Handa/blob/main/IMG_0785.jpg" alt="prathamhanda" /> </p>
+<p align="center"> <img src="https://github.com/Pratham-Handa/Pratham-Handa/blob/main/IMG_0785.jpg" alt="prathamhanda" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-handa&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-handa" /> </p>
 
