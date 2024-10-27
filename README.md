@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Handa</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" alt="rahulsindhu01" /> </p>
+<p align="left"> <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" alt="ph09" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-handa&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-handa" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Blockchain**
 
-- 📫 How to reach me **prathamshanda09@gmail.com**
+- 📫 How to reach me **pratham.letsconnect@gmail.com**
 
 - ⚡ Fun fact **Sometimes I am super productive, Sometimes I just sleep.**
 
